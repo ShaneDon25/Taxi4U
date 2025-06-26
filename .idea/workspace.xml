@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb7a9ff8-e11f-4bd0-b50c-282c773832fe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="fb7a9ff8-e11f-4bd0-b50c-282c773832fe" name="Changes" comment="This is the set-up for the Taxi4U app so that I can test it using my phone, the web or an emulator. I am using Expo go to open it up on my phone using a qr code that is produced using the npm start command.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,22 +15,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ShaneDon25"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ShaneDon25&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ShaneDon25/Taxi4U.git",
-    "accountId": "7fbb1a43-8ef5-4159-accd-a369947ac4c2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ShaneDon25/Taxi4U.git&quot;,
+    &quot;accountId&quot;: &quot;7fbb1a43-8ef5-4159-accd-a369947ac4c2&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2z3AIDXmBspaUQfbyeOlZb3agq0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,6 +44,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
@@ -74,11 +77,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750949300594</updated>
-      <workItem from="1750949301989" duration="1059000" />
+      <workItem from="1750949301989" duration="2536000" />
+      <workItem from="1750967557864" duration="31000" />
     </task>
+    <task id="LOCAL-00001" summary="This is the set-up for the Taxi4U app so that I can test it using my phone, the web or an emulator. I am using Expo go to open it up on my phone using a qr code that is produced using the npm start command.">
+      <option name="closed" value="true" />
+      <created>1750953027330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750953027330</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is the set-up for the Taxi4U app so that I can test it using my phone, the web or an emulator. I am using Expo go to open it up on my phone using a qr code that is produced using the npm start command." />
+    <option name="LAST_COMMIT_MESSAGE" value="This is the set-up for the Taxi4U app so that I can test it using my phone, the web or an emulator. I am using Expo go to open it up on my phone using a qr code that is produced using the npm start command." />
   </component>
 </project>
