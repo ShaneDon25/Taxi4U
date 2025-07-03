@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb7a9ff8-e11f-4bd0-b50c-282c773832fe" name="Changes" comment="This is the set-up for the Taxi4U app so that I can test it using my phone, the web or an emulator. I am using Expo go to open it up on my phone using a qr code that is produced using the npm start command.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="fb7a9ff8-e11f-4bd0-b50c-282c773832fe" name="Changes" comment="This is the set-up for the Taxi4U app so that I can test it using my phone, the web or an emulator. I am using Expo go to open it up on my phone using a qr code that is produced using the npm start command." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +84,7 @@
       <workItem from="1751478984947" duration="211000" />
       <workItem from="1751479206625" duration="197000" />
       <workItem from="1751479423056" duration="406000" />
-      <workItem from="1751479916532" duration="1287000" />
+      <workItem from="1751479916532" duration="2105000" />
     </task>
     <task id="LOCAL-00001" summary="This is the set-up for the Taxi4U app so that I can test it using my phone, the web or an emulator. I am using Expo go to open it up on my phone using a qr code that is produced using the npm start command.">
       <option name="closed" value="true" />
